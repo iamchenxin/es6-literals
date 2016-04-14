@@ -48,5 +48,5 @@ function SQL(strs:string[], ...args:mixed[]): sqlResult {
 
 export {
   inst,
-  SQL as default
+  SQL
 };

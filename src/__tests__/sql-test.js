@@ -1,5 +1,5 @@
-import SQL from '../sql.js';
-import {inst} from '../sql.js';
+const {SQL, inst} = require('../sql.js');
+console.log(SQL);
 
 describe('test SQL tagged template', () => {
   let userId;

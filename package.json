@@ -1,6 +1,6 @@
 {
   "name": "es6-literals",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "code collections for es6 tagged template literals ",
   "main": "index.js",
   "scripts": {
