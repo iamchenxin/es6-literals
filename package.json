@@ -1,7 +1,7 @@
 {
-  "name": "nframe",
+  "name": "es6-literals",
   "version": "0.0.1",
-  "description": "general config for nuclide based project flow&eslint&babel&gulp",
+  "description": "code collections for es6 tagged template literals ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,18 +9,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamchenxin/nframe.git"
+    "url": "git+https://github.com/iamchenxin/es6-literals.git"
   },
   "keywords": [
-    "iamchenxin",
-    "config"
+    "literals",
+    "tagged",
+    "postgres",
+    "sql",
+    "template",
+    "templates"
   ],
   "author": "iamchenxin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iamchenxin/nframe/issues"
+    "url": "https://github.com/iamchenxin/es6-literals/issues"
   },
-  "homepage": "https://github.com/iamchenxin/nframe#readme",
+  "homepage": "https://github.com/iamchenxin/es6-literals#readme",
   "devDependencies": {
     "babel-cli": "^6.6.5",
     "babel-core": "^6.7.4",
